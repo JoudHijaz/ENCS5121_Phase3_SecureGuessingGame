@@ -16,3 +16,22 @@ This project is part of the final phase of the **ENCS5121 – Information Securi
 
 ## 🗂️ Project Structure
 
+
+---
+
+## 🧪 Test Cases Implemented
+
+| Test Case        | Description                                                                 |
+|------------------|-----------------------------------------------------------------------------|
+| ✅ Test Case 1    | Normal game flow: 2 complete rounds with successful mutual authentication. |
+| ❌ Test Case 2    | Invalid Bob private key: Alice fails to authenticate Bob and terminates.   |
+| ❌ Test Case 3    | Invalid Alice private key: Bob fails to authenticate Alice and terminates. |
+
+---
+
+## ⚙️ How to Run
+
+### 1. Install Dependencies
+
+```bash
+pip install -r requirements.txt
