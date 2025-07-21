@@ -106,9 +106,9 @@ python client.py
 
 A full demonstration of the system and all test cases can be viewed here:
 
-🎥 [**Click to watch demo video**](https://drive.google.com/YOUR_VIDEO_LINK_HERE)
+🎥 [**Click to watch demo video**](https://youtu.be/a6rvjh6adEw)
 
-*(If hosted locally, replace with local file or omit if not uploading to GitHub)*
+
 
 ---
 
