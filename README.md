@@ -34,8 +34,7 @@ ENCS5121_Phase3_SecureGuessingGame/
 │
 ├── phase3_demo.mp4        # Demo video (optional for GitHub hosting)
 ├── README.md              # Project documentation and instructions
-├── requirements.txt       # Python dependencies
-├── .gitignore             # Ignored files
+
 ```
 
 ---
