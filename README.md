@@ -127,7 +127,3 @@ This repository is an academic submission for ENCS5121 – Term 1242 at Birzeit 
 
 ---
 
-## 👨‍🏫 Instructor
-
-**Dr. [Instructor Name]** – Department of Electrical and Computer Engineering  
-Birzeit University
